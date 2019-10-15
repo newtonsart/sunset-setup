@@ -10,10 +10,10 @@ This desktop has taken more than 20 hours to make it. (give a star and share pls
 ![Kitty](https://raw.githubusercontent.com/lilart/sunset-setup/0c7ac4c38308777856401ceda0a1906b643c4770/images/1571162835.png)
 
 ### Visual Studio Code
-![Visual Studio](https://raw.githubusercontent.com/lilart/sunset-setup/0c7ac4c38308777856401ceda0a1906b643c4770/images/1571162588.png)
+![Visual Studio](images/1571162588.png)
 
 ### Discord
-![Discord](https://raw.githubusercontent.com/lilart/sunset-setup/0c7ac4c38308777856401ceda0a1906b643c4770/images/1571160992.png)
+![Discord](images/1571160992.png)
 Btw, join this discord servers: [Phoenix ComputerSec](https://discord.gg/28VHRbE) and [Evilicious](https://discord.gg/hr2kzjz)
 
 ### Firefox
