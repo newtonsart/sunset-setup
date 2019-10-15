@@ -4,10 +4,10 @@ This desktop has taken more than 20 hours to make it. (give a star and share pls
 
 ## The setup
 ### Polybar
-![Polybar](https://raw.githubusercontent.com/lilart/sunset-setup/0c7ac4c38308777856401ceda0a1906b643c4770/images/polybar.png)
+![Polybar](images/polybar.png)
 
 ### Kitty
-![Kitty](https://raw.githubusercontent.com/lilart/sunset-setup/0c7ac4c38308777856401ceda0a1906b643c4770/images/1571162835.png)
+![Kitty](images/1571162835.png)
 
 ### Visual Studio Code
 ![Visual Studio](images/1571162588.png)
@@ -17,10 +17,10 @@ This desktop has taken more than 20 hours to make it. (give a star and share pls
 Btw, join this discord servers: [Phoenix ComputerSec](https://discord.gg/28VHRbE) and [Evilicious](https://discord.gg/hr2kzjz)
 
 ### Firefox
-![Firefox](https://raw.githubusercontent.com/lilart/sunset-setup/0c7ac4c38308777856401ceda0a1906b643c4770/images/untitled.gif)
+![Firefox](images/untitled.gif)
 
 ### Spotify + Cava
-![Spotify + Cava](https://raw.githubusercontent.com/lilart/sunset-setup/0c7ac4c38308777856401ceda0a1906b643c4770/images/1571160127.png)
+![Spotify + Cava](images/1571160127.png)
 
 ## How to setup
 
