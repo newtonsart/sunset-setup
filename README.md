@@ -179,6 +179,39 @@ tab {
 - Install Visual Studio Code color theme
 You can find how clicking [here](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
 
+-If polybar is looking strange for you:
+edit width and offset-x values in polybar config files.
+
+## Keyboard Shortcuts
+
+- start a terminal(kitty)
+$mod+Enter
+
+- start firefox
+$mod+Shift+f
+
+- start discord
+$mod+d
+
+- start visual studio code
+$mod+c
+
+- start spotify
+$mod+m
+
+- start file manager(qtfm)
+$mod+Shift+a
+
+- Close focused window
+$mod+Shift+q
+
+- screenshot
+$mod+Shift+p
+
+- change brightness
+$mod+o to make the brightness higher
+$mod+i to make the brightness lower
+
 ## Resources
 - [i3-sunset2](https://github.com/Vista1nik/i3-sunset2) 
 - [Wallpaper](https://w.wallhaven.cc/full/13/wallhaven-132wqw.jpg)
