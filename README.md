@@ -2,9 +2,21 @@
 Here I'll tell you how to set up my desktop.
 This desktop has taken more than 20 hours to make it. (give a star and share pls)
 
-## Info
+## The setup
+### Polybar
 
-## Installation
+### Kitty
+
+### Visual Studio Code
+
+### Discord
+
+### Firefox
+
+### Spotify + Cava
+![Spotify + Cava](https://raw.githubusercontent.com/lilart/sunset-setup/0c7ac4c38308777856401ceda0a1906b643c4770/images/1571160127.png)
+
+## How to setup
 
 ## Resources
 - [i3-sunset2](https://github.com/Vista1nik/i3-sunset2)
