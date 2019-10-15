@@ -1,5 +1,5 @@
 # sunset-setup
-Here I'll tell you how to set up my desktop.
+
 This desktop has taken more than 20 hours to make it. (give a star and share pls)
 
 ## The setup
